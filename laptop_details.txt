@@ -1,0 +1,11 @@
+Razer Blade, Razer,1240.0,78, i7 7th Gen, GTX 1360
+XPS, Dell,970.0,54, i5 9th Gen, GTX 1370
+Alienware, Alienware,978.0,37, i5 9th Gen, GTX 1370
+Swift 7, Acer,900.0,46, i5 9th Gen, GTX 1370
+Macbook, Apple,3510.0,51, i5 9th Gen, GTX 1370
+ASUS G9, ASUS,1378.0,66, Ryzen 9, RTX 1360
+HP Spectre, HP,1249.0,48, i7-1175G7, Intel IrisXe
+Lenovo Legion, Lenovo,1378.0,60, Ryzen 7, RTX 1370
+MSI GS66, MSI,999.0,29, i7-10701H, RTX 1360
+Dell G5, Dell,1378.0,58, i7-10701H, RTX 1360
+Acer Predator,Acer,1250.0,17,i7 97550H,RTX2070,17
